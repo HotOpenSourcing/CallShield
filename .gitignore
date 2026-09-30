@@ -47,3 +47,4 @@ __pycache__/
 
 # Generated feed provenance (published with importer artifacts, not the app bundle)
 data/source-snapshot.json
+config.bat
